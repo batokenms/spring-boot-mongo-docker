@@ -33,6 +33,7 @@ docker-compose up -d
 ## List Docker Containers
 ```docker
 docker ps -a
+docper ps
 ```
 
 ## License
