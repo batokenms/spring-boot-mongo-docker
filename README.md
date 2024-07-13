@@ -30,7 +30,7 @@ docker build -t dockerhandson/spring-boot-mongo .
 docker-compose up -d 
 ```
 
-## List Docker Containers
+## List Docker Containers using the Terminal
 ```docker
 docker ps -a
 ```
